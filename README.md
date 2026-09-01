@@ -17,8 +17,4 @@ El sistema permite:
 * Hallar el **n-ésimo número primo**.
 * Resolver **ecuaciones cuadráticas**, considerando raíces reales e imaginarias.
 * Calcular el **promedio de N números**, admitiendo datos decimales.
-* Jugar a **adivinar un número aleatorio** dentro de un rango `n` y `m`.
-* Generar la **tabla de multiplicar** de un número dado.
-* Controlar entradas inválidas para evitar fallos durante la ejecución.
-
 ---
