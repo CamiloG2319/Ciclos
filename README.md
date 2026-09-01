@@ -2,8 +2,8 @@
 
 ## Integrantes
 
-* Juan Camilo Gomez Tangarife
 * Surisaddai Pulgarin Torres
+* Juan Camilo Gomez Tangarife
 
 ---
 
