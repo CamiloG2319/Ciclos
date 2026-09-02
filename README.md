@@ -26,6 +26,6 @@ El juego continúa hasta que el usuario logra adivinar correctamente el número 
 
 ## presentación
 
-[Texto que quieres que sea cliqueable]((https://canva.link/cr9yk1uet9gsvu2))
+[Enlace](https://canva.link/cr9yk1uet9gsvu2)
 
 
