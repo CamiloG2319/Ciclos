@@ -1,35 +1,58 @@
 # Taller de Ciclos en Java
 
+Este repositorio contiene la solución práctica al **Taller de Ciclos en Java**, donde se implementa una aplicación de consola con menú interactivo continuo, flujo controlado por ciclos, cálculo de estructuras matemáticas y un minijuego interactivo.
+
+---
+
 ## Integrantes
 
-* Surisaddai Pulgarin Torres
-* Juan Camilo Gomez Tangarife
+* **Surisaddai Pulgarin Torres**
+* **Juan Camilo Gomez Tangarife**
 
 ---
 
 ## Descripción del Proyecto
 
-En la parte práctica desarrollamos un menú continuo interactivo decorado con arte ASCII que se ejecuta repetidamente hasta que el usuario decide salir.
+El proyecto está diseñado como un menú interactivo decorado con arte ASCII que se ejecuta en bucle continuo hasta que el usuario decida finalizar la sesión. A través de este sistema, se integran diferentes algoritmos matemáticos y lógicos utilizando estructuras de control repetitivas y condicionales en Java.
 
-El sistema permite:
+### Funcionalidades Principales
 
-* Calcular el **n-ésimo término de la serie de Fibonacci**.
-* Hallar el **n-ésimo número primo**.
-* Resolver **ecuaciones cuadráticas**, considerando raíces reales e imaginarias.
-* Calcular el **promedio de N números**, admitiendo datos decimales.
+1. **Serie de Fibonacci**: Calcula el *n-ésimo* término de la sucesión de Fibonacci a partir de la posición ingresada por el usuario.
+2. **Números Primos**: Determina y muestra el *n-ésimo* número primo existente.
+3. **Ecuaciones Cuadráticas**: Resuelve ecuaciones de segundo grado ($ax^2 + bx + c = 0$), calculando correctamente tanto raíces reales como complejas/imaginarias según el discriminante.
+4. **Cálculo de Promedios**: Permite procesar una cantidad $N$ de números decimales ingresados por el usuario para obtener su promedio exacto.
+5. **Juego de Adivinar el Número**: Minijuego interactivo con pistas dinámicas.
+
 ---
-## Juego de adivinar el número
 
-* En este juego, el sistema genera aleatoriamente un número entre 1 y 100 que el usuario debe intentar adivinar. Después de cada intento, el programa compara el número ingresado con el número secreto y da una pista indicando si debe elegir un número mayor o menor.
+## Juego: Adivina el Número
 
-* El juego continúa hasta que el usuario logra adivinar correctamente el número generado, momento en el que se muestra un mensaje de felicitación.
+* **Dinámica**: El programa genera aleatoriamente un número entero dentro del rango de **1 a 100**.
+* **Mecánica**: El usuario ingresa sus intentos de forma consecutiva.
+* **Pistas Dinámicas**: Tras cada intento fallido, el sistema analiza la respuesta e indica si el número secreto es **mayor** o **menor** que el valor ingresado.
+* **Condición de Victoria**: El juego finaliza únicamente cuando el usuario acierta el número secreto, desplegando un mensaje de felicitación junto con las estadísticas del juego.
 
-## Presentación
+---
 
-* [Enlace](https://canva.link/cr9yk1uet9gsvu2)
+## Presentación del Proyecto
 
-_____ ___ _   _ 
+Puedes revisar las diapositivas y la documentación visual del proyecto a través del siguiente enlace:
+
+* **[Ver Presentación en Canva](https://canva.link/cr9yk1uet9gsvu2)**
+
+---
+
+## Requisitos e Instalación
+
+1. **Lenguaje**: Java JDK 8 o superior.
+2. **Ejecución**:
+   ```bash
+---
+
+```text
+  _____ ___ _   _ 
  |  ___|_ _| \ | |
  | |_   | ||  \| |
  |  _|  | || |\  |
  |_|   |___|_| \_|
+```
