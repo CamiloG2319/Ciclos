@@ -24,8 +24,7 @@ En este juego, el sistema genera aleatoriamente un número entre 1 y 100 que el 
 
 El juego continúa hasta que el usuario logra adivinar correctamente el número generado, momento en el que se muestra un mensaje de felicitación.
 
-##presentación
+## presentación
+
 https://canva.link/cr9yk1uet9gsvu2
 
-
-##
