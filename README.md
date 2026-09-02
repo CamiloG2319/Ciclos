@@ -32,6 +32,19 @@ El proyecto está diseñado como un menú interactivo decorado con arte ASCII qu
 * **Pistas Dinámicas**: Tras cada intento fallido, el sistema analiza la respuesta e indica si el número secreto es **mayor** o **menor** que el valor ingresado.
 * **Condición de Victoria**: El juego finaliza únicamente cuando el usuario acierta el número secreto, desplegando un mensaje de felicitación junto con las estadísticas del juego.
 
+## Tabla de multiplicar
+
+Este programa permite al usuario ingresar un número y muestra su tabla de multiplicar del **1 al 10** mediante un ciclo `for`.
+
+También utiliza `try-catch` para manejar entradas no válidas, como letras.
+
+### Conceptos utilizados
+- `Scanner`
+- Ciclo `for`
+- Contador
+- Operaciones aritméticas
+- `try-catch`
+
 ---
 
 ## Presentación del Proyecto
