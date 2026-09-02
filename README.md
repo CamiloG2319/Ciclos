@@ -28,4 +28,8 @@ El sistema permite:
 
 * [Enlace](https://canva.link/cr9yk1uet9gsvu2)
 
-
+_____ ___ _   _ 
+ |  ___|_ _| \ | |
+ | |_   | ||  \| |
+ |  _|  | || |\  |
+ |_|   |___|_| \_|
