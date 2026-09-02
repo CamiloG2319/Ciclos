@@ -46,8 +46,6 @@ Puedes revisar las diapositivas y la documentación visual del proyecto a travé
 
 1. **Lenguaje**: Java JDK 8 o superior.
 2. **Ejecución**:
-   ```bash
----
 
 ```text
   _____ ___ _   _ 
