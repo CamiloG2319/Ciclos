@@ -40,13 +40,6 @@ Puedes revisar las diapositivas y la documentación visual del proyecto a travé
 
 * **[Ver Presentación en Canva](https://canva.link/cr9yk1uet9gsvu2)**
 
----
-
-## Requisitos e Instalación
-
-1. **Lenguaje**: Java JDK 8 o superior.
-2. **Ejecución**:
-
 ```text
   _____ ___ _   _ 
  |  ___|_ _| \ | |
