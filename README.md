@@ -23,3 +23,9 @@ El sistema permite:
 En este juego, el sistema genera aleatoriamente un número entre 1 y 100 que el usuario debe intentar adivinar. Después de cada intento, el programa compara el número ingresado con el número secreto y da una pista indicando si debe elegir un número mayor o menor.
 
 El juego continúa hasta que el usuario logra adivinar correctamente el número generado, momento en el que se muestra un mensaje de felicitación.
+
+##presentación
+https://canva.link/cr9yk1uet9gsvu2
+
+
+##
